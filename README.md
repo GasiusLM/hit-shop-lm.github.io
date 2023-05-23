@@ -1,1 +1,1 @@
-# hit-shop-lm.github.io
+# hitshop.github.io
